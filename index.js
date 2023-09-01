@@ -1,6 +1,9 @@
 const express = require("express");
 const { MongoClient, ObjectId } = require("mongodb");
 
+//admin
+//xygUJlVOzVYZ9zjd
+
 // const url = "mongodb://localhost:27017";
 //const url = "mongodb://127.0.0.1:27017";
 const url = "mongodb+srv://admin:xygUJlVOzVYZ9zjd@cluster0.0uasqgu.mongodb.net";
